@@ -3,3 +3,5 @@ __pycache__/
 .env
 .streamlit/secrets.toml
 *.pyc
+node_modules/
+dist/
